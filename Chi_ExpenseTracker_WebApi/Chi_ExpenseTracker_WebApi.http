@@ -1,6 +1,0 @@
-@Chi_ExpenseTracker_WebApi_HostAddress = http://localhost:5047
-
-GET {{Chi_ExpenseTracker_WebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
